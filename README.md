@@ -1,2 +1,5 @@
 # LevelBuddyforBlender28
-Attempt to Upgrade LevelBuddy to Blender28+ 
+
+An attempt to Upgrade LevelBuddy to Blender 2.8+
+
+Will likely crash.  The most basic functionality works. I got it 75% working, I need someone better at Blender plugins to fork this and carry it the remaining 25%. 
